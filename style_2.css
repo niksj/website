@@ -1,1 +1,10 @@
 this is stylesheet 2 to be developed soon......
+body {
+  background: #ddd;
+}
+
+.wrapper {
+  padding: 100px 0 0;
+  text-align: center;
+}
+
