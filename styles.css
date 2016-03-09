@@ -1,1 +1,21 @@
-this is style sheet 1 to be developed soon
+#container, #container_left, #container_right {
+	position: relative;
+	width: 100%;
+}
+	
+#container {
+	position: relative;
+	width: 980px;
+	margin: 0 auto;
+	background-color: transparent;
+	min-height: 100%;
+}
+
+	
+header {
+	position: relative;
+	float: left;
+	width: 100%;
+	height: 100px;
+}
+
