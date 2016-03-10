@@ -9,6 +9,13 @@ html, body, div, span, h1, h2, h3, h4, h5, h6, p, ol, ul, li, form, label, legen
 	font-family: inherit;
 	vertical-align: baseline;
 }
+#nav {
+	list-style: none;
+}
+
+a img {
+   border: none
+}
 
 #container, #container_left, #container_right {
 	position: relative;
