@@ -41,6 +41,19 @@ body {
 .subtitle {
 	border-bottom: 1px solid #A3A3A3;
 }
+.course_list {
+	line-height: 150%;
+}
+
+p {
+	font-size: 20px;
+	line-height: 0.9;
+	color: #000000;
+	text-align: left;
+	margin-bottom: 13px;
+	padding-bottom: 15px;
+}
+
 
 #container, #container_left, #container_right {
 	position: relative;
