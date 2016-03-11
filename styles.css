@@ -53,7 +53,14 @@ p {
 	margin-bottom: 13px;
 	padding-bottom: 15px;
 }
-
+.project_ul {
+	font-size: 18px;
+	line-height: 140%;
+	color: #000000;
+	text-align: left;
+	margin-bottom: 13px;
+	padding-bottom: 15px;
+}
 
 #container, #container_left, #container_right {
 	position: relative;
