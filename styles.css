@@ -124,6 +124,14 @@ h1 {
 	color: #000000;
 	margin-left: 10px;
 }
+h2 {
+	font-size: 28px;
+	line-height: 1.8;
+	color: #000000;
+	text-align: left;
+ 	margin-bottom: 7px;
+	padding-bottom: 12px;
+}
 #container, #container_left, #container_right {
 	position: relative;
 	width: 100%;
