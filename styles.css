@@ -132,6 +132,14 @@ h2 {
  	margin-bottom: 7px;
 	padding-bottom: 12px;
 }
+h3 {
+	font-size: 26px;
+	line-height: 0.9;
+	color: #000000;
+	text-align: left;
+	margin-bottom: 6px;
+	padding-bottom: 5px;
+}
 #container, #container_left, #container_right {
 	position: relative;
 	width: 100%;
