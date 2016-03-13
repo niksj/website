@@ -110,6 +110,14 @@ h1, h2, h3, h4, h5, h6 {
    font-weight: normal;
 	position: relative;
 }
+h1 {
+	font-size: 32px;
+	line-height: 0.9;
+	color: #000000;
+	text-align: left;
+	margin-bottom: 13px;
+	padding-bottom: 15px;
+}
 #container, #container_left, #container_right {
 	position: relative;
 	width: 100%;
