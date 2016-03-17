@@ -201,3 +201,11 @@ a.photo_hover3: hover {
 	opacity: 0.9;
 	z-index: 1000;
 }
+a.photo_hover2 {
+	position: relative;
+	float: right;
+	margin: 5px 13px 8px 0;
+	padding: 8px;
+   background-color: white;
+	border: 1px solid #E1E1E1;
+}
