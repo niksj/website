@@ -195,3 +195,9 @@ a.photo_hover3 {
    background-color: white;
 	border: 1px solid #D6D6D6;
 }
+a.photo_hover3: hover {
+	border: 1px solid #D6D6D6;
+	background-color: transparent;
+	opacity: 0.9;
+	z-index: 1000;
+}
