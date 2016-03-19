@@ -256,3 +256,8 @@ nav {
 	border-top: 1px solid #A3A3A3;
 	border-bottom: 1px solid #A3A3A3;
 }
+nav ul li {
+	float: left;
+	margin-left: 16px;
+	line-height: normal;
+}
