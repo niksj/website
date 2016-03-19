@@ -280,3 +280,9 @@ nav ul li a: hover {
 nav ul li a.current {
 	color: #CC3333;
 }
+.content_menu {
+	float: left;
+	width: 274px;
+	margin-top: -10px;
+	margin-bottom: 15px;
+}
