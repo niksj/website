@@ -241,3 +241,8 @@ footer {
 	top: 26px;
 	color: white;
 }
+.container {
+   width: 980px;
+   margin: 0 auto;
+	background-color: #33CC99;
+}
