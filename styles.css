@@ -229,3 +229,9 @@ footer {
 #FooterOne, #FooterTwo, #FooterTree {
 	position: absolute;	
 }
+#FooterTwo {
+	position: absolute;
+	right: 225px;
+	top: 26px;
+	color: white;
+}
