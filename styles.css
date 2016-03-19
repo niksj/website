@@ -277,6 +277,12 @@ nav ul li a {
 nav ul li a: hover {
 	color: #CC3333;
 }
+.content_menu ul {	
+	margin: 0px;
+	padding: 0px;
+	float: none;
+}
+
 nav ul li a.current {
 	color: #CC3333;
 }
