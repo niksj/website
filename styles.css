@@ -292,3 +292,8 @@ nav ul li a.current {
 	margin-top: -10px;
 	margin-bottom: 15px;
 }
+.content_menu ul {	
+	margin: 0px;
+	padding: 0px;
+	float: none;
+}
