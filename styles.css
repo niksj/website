@@ -297,3 +297,7 @@ nav ul li a.current {
 	padding: 0px;
 	float: none;
 }
+.content_menu ul li {
+	float: none;
+	padding-bottom: 16px;
+}
