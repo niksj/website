@@ -323,3 +323,10 @@ nav ul li a.current {
 	height: 43px;
 	top: 32px;
 }
+.clearing {
+	clear: both;
+	display: inline;
+	width: 100%;
+	height: 0;
+	overflow: hidden;
+}
