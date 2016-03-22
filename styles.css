@@ -315,3 +315,11 @@ nav ul li a.current {
 .content_menu ul li a: hover {
    color: #33CC99;
 }
+#logo {
+	position: relative;
+   float: left;
+	left: 0px;
+	width: 167px;
+	height: 43px;
+	top: 32px;
+}
