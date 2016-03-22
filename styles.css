@@ -345,3 +345,11 @@ nav ul li a.current {
 	text-decoration: none;
 	font: 12px/100% Arial, Helvetica, sans-serif;
 }
+.button: hover {
+	background-color: #333333;
+}
+
+.button: active {
+	position: relative;
+	top: 1px;
+}
