@@ -312,3 +312,6 @@ nav ul li a.current {
 	background-repeat: no-repeat;
 	padding-left: 20px;
 }
+.content_menu ul li a: hover {
+   color: #33CC99;
+}
