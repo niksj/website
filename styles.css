@@ -301,3 +301,14 @@ nav ul li a.current {
 	float: none;
 	padding-bottom: 16px;
 }
+.content_menu ul li a {
+	font-size: 14px;
+	line-height: normal;
+   color: #33CC99;
+	text-align: left;
+	text-decoration: none;
+	background-image: url(../images/circle.png);
+	background-position: left;
+	background-repeat: no-repeat;
+	padding-left: 20px;
+}
