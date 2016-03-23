@@ -1,9 +1,0 @@
-1.add images folder and add images to it.
-2.add stylesheets
-3.add links to contact.html for fb,G+,linkedin,gmail etc
-4.add favicon
-5.create logo
-6.urgently select personal pic to be uploaded soon
-7.add scripts
-8.add projects with proper description to projects.html
-9.soon decide hosting and domain name etc....
