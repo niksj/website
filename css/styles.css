@@ -267,7 +267,7 @@ nav ul li a {
 	color: #666666;
 	font-weight: normal;
 	display: block;	/* IE6, IE7 line height fix */
-	padding-bottom: 10px;
+	padding-bottom: 9px;
 	padding-top: 6px;
 	background-color: transparent;
 	margin-top: 6px;
