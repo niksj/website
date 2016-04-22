@@ -343,7 +343,7 @@ nav ul li a.current {
 	cursor: pointer;
 	text-align: center;
 	text-decoration: none;
-	font: 12px/100% Arial, Helvetica, sans-serif;
+	font: 13px/100% Arial, Helvetica, sans-serif;
 }
 .button: hover {
 	background-color: #333333;
